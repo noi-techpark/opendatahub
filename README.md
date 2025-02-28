@@ -3,6 +3,9 @@ Open Data Hub is the cross-border digital platform that helps start-ups, compani
 
 # Website 
 Most information about the Open Data Hub can be found starting from the projects website: https://opendatahub.com/
-The repo of the website is https://github.com/noi-techpark/opendatahub-website 
+The website repo is https://github.com/noi-techpark/opendatahub-website 
 
+# Data Browser
+The Data Browser allows users to navigate the data in the Open Data Hub: https://databrowser.opendatahub.com/
+The Data Browser repo is https://github.com/noi-techpark/it.bz.opendatahub.databrowser 
 
